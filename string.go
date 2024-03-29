@@ -15,7 +15,7 @@ import (
 var (
 	Day   = time.Hour * 24
 	Week  = Day * 7
-	Month = Week * 4
+	Month = Day * 30
 	Year  = Day * 365
 )
 
